@@ -16,9 +16,14 @@
 
   ## Repository
 
+  https://github.com/juanestuniga/budget-tracker.git
+
   ## Live App
 
+  https://immersive-sea.herokuapp.com/
+
   ## Screenshot
+
   
   ## Installation
   
