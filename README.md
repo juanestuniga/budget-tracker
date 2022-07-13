@@ -8,6 +8,9 @@
   
   An application that allows users to add their expenses and deposits online or offline.
   ## Table of Contents
+  * [Repository](#repository)
+  * [LiveApp](#liveapp)
+  * [Screenshot](#screenshot)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
@@ -24,6 +27,7 @@
 
   ## Screenshot
 
+  ![](assets/screenshot.png)
   
   ## Installation
   
